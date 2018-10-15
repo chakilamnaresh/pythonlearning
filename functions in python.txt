@@ -1,0 +1,91 @@
+function is a small program or a sub program which performs a specific task
+function is used to implement business logic
+
+why do we need functions?
+
+1)A function has a reuasable code
+2)It helps to modularize the code
+3)it reduces the lenght of the code
+4)debugging becomes easy
+
+we have two types of funvtions
+1)default
+2)paramterized 
+
+Default function:
+
+A function without parameters is defualt functions
+syntax:
+
+def function_name():
+	statements
+
+example:
+
+
+def m1():
+	print("Hello")
+
+________________________________________________________________________________________________________________________________
+
+Parameterized function:
+
+functions with parameters are known as paremeterized function
+
+syntax:
+
+def function_name(var1,var2,....):
+
+	statements
+
+Why do we need:
+
+it is used to implement paramtere passing
+it is exchanging data from one function to another function
+		
+
+	Actual para,e
+how to call Parameterized function:
+
+
+		
+function_name(val1,val2,.....) #caller
+
+
+how to call a function:
+
+function_naae()
+
+example:
+m1()
+
+
+
+
+returning a value from function:
+
+
+return var1
+
+or return var1,var2....
+
+Parameters in python:
+
+there are 4 types of parameters in python
+
+1)positional paramteres/args
+2)keyed paramteres
+
+
+Keyed Arguments/parameters:
+
+Actual paramteres declared with key names are called keyed paramters
+
+
+default paramters
+_________________
+
+default are used  if caller is not passing values
+
+
+

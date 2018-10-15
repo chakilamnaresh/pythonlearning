@@ -1,0 +1,6 @@
+eno,ename,sal,gender,dno
+1,mano,1000.00,f,20
+23mano1,2000.00,m,20
+3,mano3,2000.00,m,30
+4,mano3,2000.00,m,40
+
